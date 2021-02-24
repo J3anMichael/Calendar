@@ -1,2 +1,2 @@
 # Calendar
-Projeto HTML CSS
+Projeto HTML CSS e Javascript 
